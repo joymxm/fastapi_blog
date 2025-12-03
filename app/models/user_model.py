@@ -1,1 +1,0 @@
-# User model (from old models.py)
